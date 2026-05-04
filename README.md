@@ -1,4 +1,4 @@
-# TradingView MCP Bridge
+# TradingView MCP Bridge 
 
 Personal AI assistant for your TradingView Desktop charts. Connects Claude Code to your locally running TradingView app via Chrome DevTools Protocol for AI-assisted chart analysis, Pine Script development, and workflow automation.
 
